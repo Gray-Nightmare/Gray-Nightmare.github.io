@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gray</title>
+</head>
+<body>
+
+<h1>Hello, I am Gray (not the color)</h1>
+
+<p>Thank you for visiting my website!</p>
+
+</body>
+</html>
